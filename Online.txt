@@ -1,0 +1,451 @@
+#EXTM3U
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,香港hks
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 ,凤凰卫视中文台
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 ,凤凰香港台
+http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+#EXTINF:-1 ,TVB翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+#EXTINF:-1 ,明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,澳门有线 CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 ,澳门有线 CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 ,唯心电视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,中视
+http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 ,中视HD
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 ,中天综合
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 ,中天娱乐
+http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 ,八大综合
+http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 ,动物星球
+http://192.154.103.75:8080//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 ,星空卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,国家地理
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 ,东森洋片
+http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 ,东森新闻
+http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 ,东森电影
+http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 ,龙祥时代电影
+http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 ,好莱坞电影
+http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 ,华纳电影
+http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 ,三立新闻
+http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 ,TVBS新闻
+http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 ,FOX动作
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 ,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 ,博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 ,新加坡8频道
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 ,RTHK 31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,RTHK 32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 ,全美电视
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,Relaxing Guitar Music
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1 ,5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 ,5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 ,5m Kitchen Hacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1 ,KBS 2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+#EXTINF:-1 ,SBS
+http://23.237.112.138:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.m3u8
+#EXTINF:-1 ,Catch On 1
+http://23.237.112.138:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.m3u8
+#EXTINF:-1 ,MBN
+http://23.237.112.138:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.m3u8
+#EXTINF:-1 ,MNet
+http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
+#EXTINF:-1 ,OCN
+http://23.237.112.138:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
+#EXTINF:-1 ,YTN Korean
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+#EXTINF:-1 ,NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 ,NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1 ,NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 ,TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 ,BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 ,テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 ,BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1 ,フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 ,BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1 ,テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 ,BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1 ,BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1 ,日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 ,WOWOW シネマ
+http://203.162.235.41:16916
+#EXTINF:-1 ,Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 ,Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 ,MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 ,ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 ,日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 189
+http://static.brazzers.com/scenes/3503/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 190
+http://static.brazzers.com/scenes/3504/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 191
+http://static.brazzers.com/scenes/3505/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 192
+http://static.brazzers.com/scenes/3507/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 193
+http://static.brazzers.com/scenes/3508/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 194
+http://static.brazzers.com/scenes/3509/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 195
+http://static.brazzers.com/scenes/3510/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 196
+http://static.brazzers.com/scenes/3511/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 197
+http://static.brazzers.com/scenes/3512/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 198
+http://static.brazzers.com/scenes/3513/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 199
+http://static.brazzers.com/scenes/3514/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 200
+http://static.brazzers.com/scenes/3515/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 201
+http://static.brazzers.com/scenes/3516/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 202
+http://static.brazzers.com/scenes/3517/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 203
+http://static.brazzers.com/scenes/3518/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 204
+http://static.brazzers.com/scenes/3520/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 205
+http://static.brazzers.com/scenes/3521/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 206
+http://static.brazzers.com/scenes/3522/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 207
+http://static.brazzers.com/scenes/3526/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 208
+http://static.brazzers.com/scenes/3527/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 209
+http://static.brazzers.com/scenes/3528/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 210
+http://static.brazzers.com/scenes/3529/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 211
+http://static.brazzers.com/scenes/3530/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 212
+http://static.brazzers.com/scenes/3531/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 213
+http://static.brazzers.com/scenes/3534/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 214
+http://static.brazzers.com/scenes/3535/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 215
+http://static.brazzers.com/scenes/3536/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 216
+http://static.brazzers.com/scenes/3537/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 217
+http://static.brazzers.com/scenes/3538/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 218
+http://static.brazzers.com/scenes/3539/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 219
+http://static.brazzers.com/scenes/3540/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 220
+http://static.brazzers.com/scenes/3541/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 221
+http://static.brazzers.com/scenes/3542/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 222
+http://static.brazzers.com/scenes/3543/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 223
+http://static.brazzers.com/scenes/3544/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 224
+http://static.brazzers.com/scenes/3545/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 225
+http://static.brazzers.com/scenes/3546/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 226
+http://static.brazzers.com/scenes/7119/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 227
+http://static.brazzers.com/scenes/3547/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 228
+http://static.brazzers.com/scenes/3548/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 229
+http://static.brazzers.com/scenes/3549/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 230
+http://static.brazzers.com/scenes/3550/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 231
+http://static.brazzers.com/scenes/3551/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 232
+http://static.brazzers.com/scenes/3552/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 233
+http://static.brazzers.com/scenes/3553/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 234
+http://static.brazzers.com/scenes/3554/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 235
+http://static.brazzers.com/scenes/3555/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 236
+http://static.brazzers.com/scenes/3556/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 237
+http://static.brazzers.com/scenes/3557/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 238
+http://static.brazzers.com/scenes/3558/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 239
+http://static.brazzers.com/scenes/3559/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 240
+http://static.brazzers.com/scenes/3560/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 241
+http://static.brazzers.com/scenes/3561/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 242
+http://static.brazzers.com/scenes/3562/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 243
+http://static.brazzers.com/scenes/3563/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 244
+http://static.brazzers.com/scenes/3564/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 245
+http://static.brazzers.com/scenes/3565/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 246
+http://static.brazzers.com/scenes/3566/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 247
+http://static.brazzers.com/scenes/3567/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 248
+http://static.brazzers.com/scenes/3568/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 249
+http://static.brazzers.com/scenes/3569/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 250
+http://static.brazzers.com/scenes/3570/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 251
+http://static.brazzers.com/scenes/3571/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 252
+http://static.brazzers.com/scenes/3572/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 253
+http://static.brazzers.com/scenes/3573/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 254
+http://static.brazzers.com/scenes/3575/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 255
+http://static.brazzers.com/scenes/3576/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 256
+http://static.brazzers.com/scenes/3577/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 257
+http://static.brazzers.com/scenes/3586/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 258
+http://static.brazzers.com/scenes/3588/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 259
+http://static.brazzers.com/scenes/3589/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 260
+http://static.brazzers.com/scenes/3590/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 261
+http://static.brazzers.com/scenes/3591/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 262
+http://static.brazzers.com/scenes/3592/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 263
+http://static.brazzers.com/scenes/3593/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 264
+http://static.brazzers.com/scenes/3594/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 265
+http://static.brazzers.com/scenes/3595/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 266
+http://static.brazzers.com/scenes/3596/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 267
+http://static.brazzers.com/scenes/3597/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 268
+http://static.brazzers.com/scenes/3598/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 269
+http://static.brazzers.com/scenes/3599/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 270
+http://static.brazzers.com/scenes/3600/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 271
+http://static.brazzers.com/scenes/3601/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 272
+http://static.brazzers.com/scenes/3602/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 273
+http://static.brazzers.com/scenes/3603/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 274
+http://static.brazzers.com/scenes/3604/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 275
+http://static.brazzers.com/scenes/3605/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 276
+http://static.brazzers.com/scenes/3606/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 277
+http://static.brazzers.com/scenes/3607/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 278
+http://static.brazzers.com/scenes/3608/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 279
+http://static.brazzers.com/scenes/3609/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 280
+http://static.brazzers.com/scenes/3610/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 281
+http://static.brazzers.com/scenes/3611/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 282
+http://static.brazzers.com/scenes/3612/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 283
+http://static.brazzers.com/scenes/3613/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 284
+http://static.brazzers.com/scenes/3614/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 285
+http://static.brazzers.com/scenes/3615/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 286
+http://static.brazzers.com/scenes/3616/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 287
+http://static.brazzers.com/scenes/3617/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 288
+http://static.brazzers.com/scenes/3619/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 289
+http://static.brazzers.com/scenes/3620/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 290
+http://static.brazzers.com/scenes/3621/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 291
+http://static.brazzers.com/scenes/3622/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 292
+http://static.brazzers.com/scenes/3623/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 293
+http://static.brazzers.com/scenes/3625/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 294
+http://static.brazzers.com/scenes/3626/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 295
+http://static.brazzers.com/scenes/3627/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 296
+http://static.brazzers.com/scenes/3628/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 297
+http://static.brazzers.com/scenes/3629/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 298
+http://static.brazzers.com/scenes/3630/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 299
+http://static.brazzers.com/scenes/3631/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 300
+http://static.brazzers.com/scenes/3632/180sec.flv
+#EXTINF:-1 group-title="BRAZZERS" tvg-logo="http://i.imgur.com/fPx3JtD.png",Brazzers - VOD 301
+http://static.brazzers.com/scenes/5457/180sec.flv
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/iM8sC4v.png",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/3yuh4jV.png",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/yzBbZgT.png",Okto
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/PTdI1KE.png",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png",EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/220px-KBC_Gwangju_Broadcasting_logo.svg.png",KBC
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png",FTV News (Opt-1)
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png",FTV News (Opt-2)
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/4rLvUKD.png",Next TV (Opt-4)
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/I21xmOW.png",NTD TV (New!)
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/UCvz0nQ.png",SET News (New!)
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/OK35yVH.png",TVBS News (New!)
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/bdkf5yp.png",UChannel TV (US)
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ASB0iC6.png",Beach Coast TV
+https://nimble.dashstreams.net/onestudio/beachtveastcoast/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pMhTxmf.png",CBS (WFOR) (Opt-1)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Qu9NAwe.png",CBS News (Opt-2)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Tntc92g.png",Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/bvLuYDd.png",Comedy Dynamics
+http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nrYLBkN.png",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ZbIiJXf.png",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/PQbUGRO.png",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-1)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-2)
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nLimNFX.png",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/BDtkjpS.png",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ypQRBrH.png",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/cQZdGc0.png",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/f978CgE.png",Justice Network
+https://v-pi.mybtv.net/event/65.3/768x432?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2029-12-11T23%3A00%3A00.000Z&env=prd&uid=29375
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/9lYz3No.png",MMA Junkie
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/YgRz2Cc.png",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VX4uHSO.png",NASA TV (Opt-1)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VX4uHSO.png",NASA TV (Opt-2)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VX4uHSO.png",NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ZIV3Yum.png",NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RX6YusQ.png",Sci-fi 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/0j5Aget.png",The Beach Show
+https://30a-tv.com/beachy.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nCB6LNt.png",The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰信息
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 group-title="港澳台",高清电影台
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="港澳台",澳门1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门微电影
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天综合
+http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
